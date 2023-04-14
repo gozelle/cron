@@ -5,7 +5,7 @@ Installation
 
 To download the specific tagged release, run:
 
-	go get github.com/robfig/cron/v3@v3.0.0
+	go get github.com/gozelle/cron@v3.0.0
 
 Import it in your program as:
 
